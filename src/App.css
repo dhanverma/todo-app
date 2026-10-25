@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+.home-panel {
+  position: absolute;
+  inset: 0 0 0 auto;
+  padding: 35px;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: rgb(248, 245, 245);
+  border-radius: 32px;
+  box-shadow: -12px 0 40px rgb(0 0 0 / 10%);
+  animation: slideIn 800ms cubic-bezier(.22, 1, .36, 1) both;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
