@@ -32,7 +32,7 @@ function Sidebar({ isOpen, onClose }) {
         </div>
 
         <h2 className="text-lg font-bold">
-          Joy
+          My Bubu
         </h2>
 
         <p className="text-sm text-gray-500">
