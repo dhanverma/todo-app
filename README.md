@@ -22,6 +22,10 @@ A responsive task management application built with React and Tailwind CSS. This
 - Lucide React
 - Browser localStorage
 
+## 🚀 Live Demo
+
+[View Live Project](https://todo-app-lilac-zeta-21.vercel.app/)
+
 ## Getting Started
 
 ### Prerequisites
