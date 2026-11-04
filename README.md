@@ -1,5 +1,9 @@
 # React To-Do App
 
+## 🚀 Live Demo
+
+[View Live Project](https://todo-app-lilac-zeta-21.vercel.app/)
+
 A responsive task management application built with React and Tailwind CSS. This project is part of my journey toward becoming a frontend developer.
 
 ## Features
@@ -21,10 +25,6 @@ A responsive task management application built with React and Tailwind CSS. This
 - Vite
 - Lucide React
 - Browser localStorage
-
-## 🚀 Live Demo
-
-[View Live Project](https://todo-app-lilac-zeta-21.vercel.app/)
 
 ## Getting Started
 
