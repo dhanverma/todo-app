@@ -4,7 +4,7 @@ A responsive task management application built with React and Tailwind CSS. This
 
 ## Preview
 
-![Todo App Screenshot](assets/todo-app.png)
+![Todo App Screenshot](src/assets/todo-app.png)
 
 ## 🚀 Live Demo
 
